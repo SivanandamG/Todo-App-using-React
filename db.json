@@ -1,0 +1,44 @@
+{
+  "posts": [
+    {
+      "Title": "sivanandam",
+      "id": "42420acf-160c-4445-8c5c-e87f3765ba05",
+      "status": false
+    },
+    {
+      "Title": "venki",
+      "id": "67c16338-98cc-4fbd-ba37-058ea939b770",
+      "status": false
+    },
+    {
+      "Title": "aswini",
+      "id": "c50851e2-b724-48cc-a0be-2806d5dfe39b",
+      "status": false
+    },
+    {
+      "Title": "anil",
+      "id": "5acaebf5-8bfa-447f-acd2-f2117c34b400",
+      "status": false
+    },
+    {
+      "Title": "aleem",
+      "id": "2024d278-b1ca-4f7a-8406-adde7edf8de0",
+      "status": false
+    },
+    {
+      "Title": "saiprasad",
+      "id": "106015df-0260-4a56-9e0b-e9ec17cd3f42",
+      "status": false
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}

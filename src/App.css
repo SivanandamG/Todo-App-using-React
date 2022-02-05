@@ -1,0 +1,54 @@
+body{
+     background: rgb(63, 122, 182);
+     text-align: center;
+}
+.addBtn{
+     color:rgb(255, 255, 255);
+     background: black;
+}
+button{
+     background: black;
+     color: white;
+     width:100px;
+     height: 30px;
+}
+h1.title{
+     color: wheat;
+     padding-top: 50px;
+}
+#cont{
+     border-radius: 5%;
+     width: 40%;
+     height: 400px;
+     margin-left: 30%;
+     margin-top:200px;
+     background: rgb(51, 202, 63);
+}
+input{
+     width: 140px;
+}
+
+.loader {
+     border: 16px solid #f3f3f3;
+     border-radius: 50%;
+     border-top: 16px solid #3498db;
+     width: 60px;
+     -webkit-animation: spin 1s linear infinite; /* Safari */
+     animation: spin 2s linear infinite;
+     margin-left: 40%;
+   }
+   
+   /* Safari */
+   @-webkit-keyframes spin {
+     0% { -webkit-transform: rotate(0deg); }
+     100% { -webkit-transform: rotate(360deg); }
+   }
+   
+   @keyframes spin {
+     0% { transform: rotate(0deg); }
+     100% { transform: rotate(360deg); }
+   }
+   
+
+   
+ 
